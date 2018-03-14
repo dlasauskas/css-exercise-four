@@ -19,6 +19,9 @@ div {
   width: 100%;
   padding: 20px 25px;
 }
+.preview-baku {
+  background-image: url("../images/baku.jpg");
+
 
 /* code added to create two-column design */
 @media screen and (min-width: 575px){
